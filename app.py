@@ -48,10 +48,10 @@ st.set_page_config(page_title="Movie Recommender System", page_icon="🎬")
 st.title("🎬 Movie Recommendation System")
 st.sidebar.header("About")
 st.sidebar.write("""
-**Developer:** Mirza Yasir Abdullah Baig  
-**LinkedIn:** [link](https://www.linkedin.com/in/mirza-yasir-abdullah-baig/)  
-**GitHub:** [link](https://github.com/mirzayasirabdullahbaig07)  
-**Kaggle:** [link](https://www.kaggle.com/code/mirzayasirabdullah07)
+**Developer:** Rabia Basri  
+**LinkedIn:** [link](https://www.linkedin.com/in/rabiabasri45/)  
+**GitHub:** [link](https://github.com/rabiabasri45)  
+**Kaggle:** [link](https://www.kaggle.com/code/rabiabasri45)
 """)
 
 # Movie selection
